@@ -1,11 +1,16 @@
 :root{
     --cor-branco: #fff;
+    --cor-laranja: orangered;
+    --cor-cinzaclaro: #5c5c5c;
 }
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family:'Montserrat';
+}
+body{
+   background-color: var(--cor-cinzaclaro);
 }
 header nav{
     display: flex;
@@ -48,7 +53,7 @@ header nav ul:hover :not(:hover){
 }
 h1{
     font-size: 4rem;
-    color: var(--cor-branco);
+    color: var(--cor-laranja);
     -webkit-animation: tracking-in-expand-fwd-top 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
 	        animation: tracking-in-expand-fwd-top 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
 }
@@ -66,7 +71,7 @@ section .container button{
     height: 40px;
     border-radius: 50px;
     margin-top: 20px;
-    background-color: orangered;
+    background-color: var(--cor-laranja);
     color: var(--cor-branco);
     font-weight: bold;
     -webkit-animation: tracking-in-expand-fwd-top 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
