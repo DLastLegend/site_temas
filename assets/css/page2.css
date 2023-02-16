@@ -73,6 +73,12 @@ section .container button{
     -webkit-animation: tracking-in-expand-fwd-top 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
 	        animation: tracking-in-expand-fwd-top 0.7s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
 }
+section .container button:hover{
+  box-shadow: 0px 5px 20px var(--cor-laranja);
+  cursor: pointer;
+  color: black;
+  font-weight: bold;
+}
 @media (max-width: 650px){
     .container{
         padding: 20px;
