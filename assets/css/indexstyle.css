@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'montserrat';
+    font-family: 'montserrat',Arial, Helvetica, sans-serif;
 }
 
 body {
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #011C40 0%, #011126 100%);
     height: 100vh;
     display: grid;
     place-items: center;
@@ -23,7 +23,7 @@ header {
     border-radius: 5px 50px 5px 50px;
     max-width: 25rem;
     min-width: 5rem;
-    background: rgba(255, 255, 255, 0.92);
+    background: rgba(255, 255, 255, 0.90);
 }
 
 label{
@@ -330,7 +330,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 66%;
     top: 83%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 23s;
     animation-name: floatReverse2;
@@ -343,7 +343,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 57%;
     top: 32%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 21s;
     animation-name: float2;
@@ -356,7 +356,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 74%;
     top: 5%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 28s;
     animation-name: float;
@@ -369,7 +369,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 93%;
     top: 26%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 33s;
     animation-name: floatReverse2;
@@ -382,7 +382,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 5%;
     top: 94%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 23s;
     animation-name: float2;
@@ -395,7 +395,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 3%;
     top: 74%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 28s;
     animation-name: float;
@@ -408,7 +408,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 48%;
     top: 23%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 35s;
     animation-name: floatReverse2;
@@ -421,7 +421,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 77%;
     top: 81%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 30s;
     animation-name: floatReverse2;
@@ -434,7 +434,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 64%;
     top: 66%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 26s;
     animation-name: floatReverse;
@@ -447,7 +447,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 85%;
     top: 90%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 33s;
     animation-name: floatReverse;
@@ -460,7 +460,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 45%;
     top: 34%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 29s;
     animation-name: float2;
@@ -473,7 +473,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 11%;
     top: 5%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 23s;
     animation-name: float2;
@@ -486,7 +486,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 23%;
     top: 99%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 25s;
     animation-name: floatReverse;
@@ -499,7 +499,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 52%;
     top: 90%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 39s;
     animation-name: float2;
@@ -512,7 +512,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 67%;
     top: 31%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 40s;
     animation-name: float;
@@ -525,7 +525,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 99%;
     top: 51%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 39s;
     animation-name: floatReverse2;
@@ -538,7 +538,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 70%;
     top: 69%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 39s;
     animation-name: float2;
@@ -551,7 +551,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 97%;
     top: 79%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 26s;
     animation-name: floatReverse2;
@@ -564,7 +564,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 51%;
     top: 1%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 29s;
     animation-name: float2;
@@ -577,7 +577,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 14%;
     top: 1%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 38s;
     animation-name: floatReverse;
@@ -590,7 +590,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 63%;
     top: 100%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 40s;
     animation-name: floatReverse2;
@@ -603,7 +603,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 20%;
     top: 56%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 37s;
     animation-name: float2;
@@ -616,7 +616,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 76%;
     top: 25%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 27s;
     animation-name: floatReverse;
@@ -629,7 +629,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 59%;
     top: 65%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 21s;
     animation-name: float2;
@@ -642,7 +642,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 39%;
     top: 60%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 37s;
     animation-name: float2;
@@ -655,7 +655,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 60%;
     top: 36%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 27s;
     animation-name: floatReverse;
@@ -668,7 +668,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 30%;
     top: 71%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 37s;
     animation-name: float;
@@ -681,7 +681,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 85%;
     top: 99%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 32s;
     animation-name: float;
@@ -694,7 +694,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 98%;
     top: 44%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 30s;
     animation-name: float2;
@@ -707,7 +707,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 91%;
     top: 23%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 32s;
     animation-name: float2;
@@ -720,7 +720,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 40%;
     top: 8%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 39s;
     animation-name: floatReverse2;
@@ -733,7 +733,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 39%;
     top: 2%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 35s;
     animation-name: floatReverse2;
@@ -746,7 +746,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 2%;
     top: 76%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 28s;
     animation-name: float2;
@@ -759,7 +759,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 21%;
     top: 48%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 24s;
     animation-name: floatReverse2;
@@ -772,7 +772,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 54%;
     top: 51%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 22s;
     animation-name: floatReverse;
@@ -785,7 +785,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 81%;
     top: 36%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 33s;
     animation-name: floatReverse;
@@ -798,7 +798,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 50%;
     top: 93%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 32s;
     animation-name: floatReverse2;
@@ -811,7 +811,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 86%;
     top: 3%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 25s;
     animation-name: floatReverse;
@@ -824,7 +824,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 47%;
     top: 24%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 35s;
     animation-name: floatReverse;
@@ -837,7 +837,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 35%;
     top: 95%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 34s;
     animation-name: floatReverse2;
@@ -850,7 +850,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 11%;
     top: 37%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 23s;
     animation-name: floatReverse;
@@ -863,7 +863,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 84%;
     top: 73%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 40s;
     animation-name: float;
@@ -876,7 +876,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 12%;
     top: 72%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 34s;
     animation-name: floatReverse2;
@@ -889,7 +889,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 38%;
     top: 40%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 40s;
     animation-name: floatReverse2;
@@ -902,7 +902,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 74%;
     top: 79%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 40s;
     animation-name: floatReverse2;
@@ -915,7 +915,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 13%;
     top: 68%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 26s;
     animation-name: float2;
@@ -928,7 +928,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 27%;
     top: 29%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 34s;
     animation-name: float2;
@@ -941,7 +941,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 27%;
     top: 78%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 30s;
     animation-name: float2;
@@ -954,7 +954,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 77%;
     top: 13%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 32s;
     animation-name: float;
@@ -967,7 +967,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 53%;
     top: 53%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 30s;
     animation-name: floatReverse2;
@@ -980,7 +980,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 40%;
     top: 64%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 33s;
     animation-name: float;
@@ -993,7 +993,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 5%;
     top: 12%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 37s;
     animation-name: float2;
@@ -1006,7 +1006,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 15%;
     top: 28%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 22s;
     animation-name: float2;
@@ -1019,7 +1019,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 87%;
     top: 37%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 38s;
     animation-name: float2;
@@ -1032,7 +1032,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 97%;
     top: 78%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 21s;
     animation-name: floatReverse2;
@@ -1045,7 +1045,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 11%;
     top: 51%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 30s;
     animation-name: floatReverse;
@@ -1058,7 +1058,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 68%;
     top: 61%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 28s;
     animation-name: float2;
@@ -1071,7 +1071,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 58%;
     top: 61%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 39s;
     animation-name: floatReverse2;
@@ -1084,7 +1084,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 54%;
     top: 67%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 22s;
     animation-name: float;
@@ -1097,7 +1097,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 60%;
     top: 2%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 34s;
     animation-name: floatReverse;
@@ -1110,7 +1110,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 77%;
     top: 63%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 31s;
     animation-name: floatReverse;
@@ -1123,7 +1123,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 16%;
     top: 11%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 34s;
     animation-name: float;
@@ -1136,7 +1136,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 3%;
     top: 100%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 23s;
     animation-name: float2;
@@ -1149,7 +1149,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 75%;
     top: 57%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 30s;
     animation-name: floatReverse2;
@@ -1162,7 +1162,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 29%;
     top: 42%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 32s;
     animation-name: floatReverse;
@@ -1175,7 +1175,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 77%;
     top: 26%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 30s;
     animation-name: floatReverse2;
@@ -1188,7 +1188,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 25%;
     top: 7%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 31s;
     animation-name: floatReverse;
@@ -1201,7 +1201,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 75%;
     top: 3%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 40s;
     animation-name: floatReverse;
@@ -1214,7 +1214,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 10%;
     top: 48%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 28s;
     animation-name: float2;
@@ -1227,7 +1227,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 16%;
     top: 21%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 36s;
     animation-name: float2;
@@ -1240,7 +1240,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 19%;
     top: 57%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 30s;
     animation-name: floatReverse;
@@ -1253,7 +1253,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 20%;
     top: 57%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 36s;
     animation-name: floatReverse;
@@ -1266,7 +1266,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 72%;
     top: 20%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 39s;
     animation-name: floatReverse;
@@ -1279,7 +1279,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 30%;
     top: 98%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 21s;
     animation-name: float2;
@@ -1292,7 +1292,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 27%;
     top: 18%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 37s;
     animation-name: floatReverse2;
@@ -1305,7 +1305,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 40%;
     top: 51%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 27s;
     animation-name: float;
@@ -1318,7 +1318,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 61%;
     top: 29%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 25s;
     animation-name: floatReverse2;
@@ -1331,7 +1331,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 20%;
     top: 93%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 28s;
     animation-name: floatReverse;
@@ -1344,7 +1344,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 58%;
     top: 78%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 34s;
     animation-name: floatReverse2;
@@ -1357,7 +1357,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 6%;
     top: 39%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 33s;
     animation-name: floatReverse2;
@@ -1370,7 +1370,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 92%;
     top: 21%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 29s;
     animation-name: float;
@@ -1383,7 +1383,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 9%;
     top: 4%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 27s;
     animation-name: floatReverse;
@@ -1396,7 +1396,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 2%;
     top: 71%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 38s;
     animation-name: floatReverse2;
@@ -1409,7 +1409,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 10%;
     top: 29%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 29s;
     animation-name: float2;
@@ -1422,7 +1422,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 90%;
     top: 62%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 38s;
     animation-name: float;
@@ -1435,7 +1435,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 81%;
     top: 67%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 39s;
     animation-name: float2;
@@ -1448,7 +1448,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 57%;
     top: 20%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 31s;
     animation-name: float2;
@@ -1461,7 +1461,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 69%;
     top: 2%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 36s;
     animation-name: float;
@@ -1474,7 +1474,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 97%;
     top: 32%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 27s;
     animation-name: floatReverse;
@@ -1487,7 +1487,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 63%;
     top: 99%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 27s;
     animation-name: floatReverse;
@@ -1500,7 +1500,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 82%;
     top: 92%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 34s;
     animation-name: float;
@@ -1513,7 +1513,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 52%;
     top: 72%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 34s;
     animation-name: float;
@@ -1526,7 +1526,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 36%;
     top: 78%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 36s;
     animation-name: float;
@@ -1539,7 +1539,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 76%;
     top: 37%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 27s;
     animation-name: float2;
@@ -1552,7 +1552,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 66%;
     top: 38%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 31s;
     animation-name: floatReverse2;
@@ -1565,7 +1565,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 31%;
     top: 98%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 38s;
     animation-name: floatReverse2;
@@ -1578,7 +1578,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 10%;
     top: 54%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 27s;
     animation-name: float2;
@@ -1591,7 +1591,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 49%;
     top: 85%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 24s;
     animation-name: floatReverse;
@@ -1604,7 +1604,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 96%;
     top: 18%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 28s;
     animation-name: float2;
@@ -1617,7 +1617,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 99%;
     top: 46%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 23s;
     animation-name: float;
@@ -1630,7 +1630,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 74%;
     top: 35%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 39s;
     animation-name: float;
@@ -1643,7 +1643,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 2%;
     top: 54%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 26s;
     animation-name: float;
@@ -1656,7 +1656,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 88%;
     top: 62%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 27s;
     animation-name: float;
@@ -1669,7 +1669,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 65%;
     top: 84%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 33s;
     animation-name: float;
@@ -1682,7 +1682,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 59%;
     top: 9%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 35s;
     animation-name: float2;
@@ -1695,7 +1695,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 55%;
     top: 66%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 35s;
     animation-name: float2;
@@ -1708,7 +1708,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 89%;
     top: 3%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 29s;
     animation-name: floatReverse2;
@@ -1721,7 +1721,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 7%;
     top: 92%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 23s;
     animation-name: float;
@@ -1734,7 +1734,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 50%;
     top: 39%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 26s;
     animation-name: float2;
@@ -1747,7 +1747,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 80%;
     top: 66%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 27s;
     animation-name: float;
@@ -1760,7 +1760,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 92%;
     top: 53%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 29s;
     animation-name: floatReverse2;
@@ -1773,7 +1773,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 1%;
     top: 24%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 39s;
     animation-name: floatReverse2;
@@ -1786,7 +1786,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 48%;
     top: 2%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 25s;
     animation-name: floatReverse;
@@ -1799,7 +1799,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 89%;
     top: 13%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 22s;
     animation-name: floatReverse2;
@@ -1812,7 +1812,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 44%;
     top: 16%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 33s;
     animation-name: float2;
@@ -1825,7 +1825,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 5%;
     top: 12%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 21s;
     animation-name: float;
@@ -1838,7 +1838,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 36%;
     top: 12%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 28s;
     animation-name: float2;
@@ -1851,7 +1851,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 61%;
     top: 68%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 30s;
     animation-name: float;
@@ -1864,7 +1864,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 43%;
     top: 91%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 36s;
     animation-name: floatReverse2;
@@ -1877,7 +1877,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 71%;
     top: 24%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 32s;
     animation-name: float2;
@@ -1890,7 +1890,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 23%;
     top: 32%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 28s;
     animation-name: floatReverse2;
@@ -1903,7 +1903,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 12%;
     top: 74%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 21s;
     animation-name: floatReverse2;
@@ -1916,7 +1916,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 40%;
     top: 60%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 33s;
     animation-name: floatReverse;
@@ -1929,7 +1929,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 93%;
     top: 12%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 39s;
     animation-name: float2;
@@ -1942,7 +1942,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 89%;
     top: 81%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 22s;
     animation-name: float2;
@@ -1955,7 +1955,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 51%;
     top: 18%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 22s;
     animation-name: floatReverse2;
@@ -1968,7 +1968,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 25%;
     top: 24%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 27s;
     animation-name: float2;
@@ -1981,7 +1981,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 50%;
     top: 68%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 38s;
     animation-name: float;
@@ -1994,7 +1994,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 42%;
     top: 59%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 35s;
     animation-name: float;
@@ -2007,7 +2007,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 1%;
     top: 27%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 32s;
     animation-name: floatReverse2;
@@ -2020,7 +2020,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 54%;
     top: 63%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 27s;
     animation-name: floatReverse;
@@ -2033,7 +2033,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 15%;
     top: 73%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 24s;
     animation-name: floatReverse;
@@ -2046,7 +2046,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 28%;
     top: 42%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 25s;
     animation-name: float2;
@@ -2059,7 +2059,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 75%;
     top: 10%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 30s;
     animation-name: floatReverse2;
@@ -2072,7 +2072,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 92%;
     top: 14%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 36s;
     animation-name: float;
@@ -2085,7 +2085,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 26%;
     top: 73%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 38s;
     animation-name: floatReverse2;
@@ -2098,7 +2098,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 22%;
     top: 82%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 33s;
     animation-name: floatReverse2;
@@ -2111,7 +2111,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 51%;
     top: 65%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 30s;
     animation-name: float2;
@@ -2124,7 +2124,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 50%;
     top: 63%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 37s;
     animation-name: floatReverse2;
@@ -2137,7 +2137,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 37%;
     top: 37%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 31s;
     animation-name: float2;
@@ -2150,7 +2150,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 35%;
     top: 83%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 35s;
     animation-name: floatReverse;
@@ -2163,7 +2163,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 58%;
     top: 84%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 40s;
     animation-name: floatReverse;
@@ -2176,7 +2176,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 20%;
     top: 60%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 26s;
     animation-name: float;
@@ -2189,7 +2189,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 78%;
     top: 25%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 28s;
     animation-name: float2;
@@ -2202,7 +2202,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 8%;
     top: 21%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 38s;
     animation-name: floatReverse;
@@ -2215,7 +2215,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 68%;
     top: 69%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 30s;
     animation-name: float;
@@ -2228,7 +2228,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 21%;
     top: 15%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 34s;
     animation-name: float2;
@@ -2241,7 +2241,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 41%;
     top: 37%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 30s;
     animation-name: floatReverse2;
@@ -2254,7 +2254,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 7%;
     top: 45%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 30s;
     animation-name: float;
@@ -2267,7 +2267,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 33%;
     top: 14%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 33s;
     animation-name: floatReverse;
@@ -2280,7 +2280,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 72%;
     top: 3%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 25s;
     animation-name: float;
@@ -2293,7 +2293,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 87%;
     top: 2%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 25s;
     animation-name: float;
@@ -2306,7 +2306,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 96%;
     top: 21%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 23s;
     animation-name: floatReverse2;
@@ -2319,7 +2319,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 61%;
     top: 40%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 34s;
     animation-name: floatReverse;
@@ -2332,7 +2332,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 85%;
     top: 66%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 23s;
     animation-name: floatReverse2;
@@ -2345,7 +2345,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 66%;
     top: 70%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 30s;
     animation-name: floatReverse;
@@ -2358,7 +2358,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 13%;
     top: 78%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 23s;
     animation-name: floatReverse2;
@@ -2371,7 +2371,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 89%;
     top: 17%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 37s;
     animation-name: floatReverse;
@@ -2384,7 +2384,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 87%;
     top: 73%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 38s;
     animation-name: float2;
@@ -2397,7 +2397,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 19%;
     top: 68%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 35s;
     animation-name: float2;
@@ -2410,7 +2410,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 72%;
     top: 52%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 22s;
     animation-name: float2;
@@ -2423,7 +2423,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 62%;
     top: 90%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 27s;
     animation-name: float2;
@@ -2436,7 +2436,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 10%;
     top: 51%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 35s;
     animation-name: float2;
@@ -2449,7 +2449,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 73%;
     top: 100%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 30s;
     animation-name: float2;
@@ -2462,7 +2462,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 26%;
     top: 55%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 35s;
     animation-name: floatReverse2;
@@ -2475,7 +2475,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 19%;
     top: 5%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 32s;
     animation-name: float;
@@ -2488,7 +2488,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 53%;
     top: 59%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 22s;
     animation-name: floatReverse2;
@@ -2501,7 +2501,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 91%;
     top: 37%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 21s;
     animation-name: float2;
@@ -2514,7 +2514,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 93%;
     top: 17%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 40s;
     animation-name: floatReverse;
@@ -2527,7 +2527,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 77%;
     top: 88%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 31s;
     animation-name: floatReverse2;
@@ -2540,7 +2540,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 74%;
     top: 25%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 35s;
     animation-name: floatReverse2;
@@ -2553,7 +2553,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 16%;
     top: 58%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 27s;
     animation-name: floatReverse;
@@ -2566,7 +2566,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 37%;
     top: 65%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 29s;
     animation-name: floatReverse;
@@ -2579,7 +2579,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 42%;
     top: 20%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 31s;
     animation-name: floatReverse2;
@@ -2592,7 +2592,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 7%;
     top: 85%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 25s;
     animation-name: float2;
@@ -2605,7 +2605,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 85%;
     top: 28%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 39s;
     animation-name: floatReverse;
@@ -2618,7 +2618,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 6%;
     top: 91%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 32s;
     animation-name: float;
@@ -2631,7 +2631,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 67%;
     top: 26%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 37s;
     animation-name: floatReverse;
@@ -2644,7 +2644,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 9%;
     top: 10%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 29s;
     animation-name: float2;
@@ -2657,7 +2657,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 44%;
     top: 42%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 28s;
     animation-name: float2;
@@ -2670,7 +2670,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 24%;
     top: 76%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 31s;
     animation-name: floatReverse;
@@ -2683,7 +2683,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 71%;
     top: 85%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 25s;
     animation-name: floatReverse;
@@ -2696,7 +2696,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 55%;
     top: 68%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 27s;
     animation-name: float;
@@ -2709,7 +2709,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 54%;
     top: 50%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 35s;
     animation-name: floatReverse;
@@ -2722,7 +2722,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 26%;
     top: 93%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 28s;
     animation-name: float;
@@ -2735,7 +2735,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 14%;
     top: 7%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 37s;
     animation-name: floatReverse2;
@@ -2748,7 +2748,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 59%;
     top: 22%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 38s;
     animation-name: floatReverse;
@@ -2761,7 +2761,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 49%;
     top: 71%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 28s;
     animation-name: floatReverse2;
@@ -2774,7 +2774,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 64%;
     top: 26%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 21s;
     animation-name: float2;
@@ -2787,7 +2787,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 84%;
     top: 58%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 36s;
     animation-name: float;
@@ -2800,7 +2800,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 95%;
     top: 36%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 27s;
     animation-name: float2;
@@ -2813,7 +2813,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 82%;
     top: 4%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 29s;
     animation-name: float2;
@@ -2826,7 +2826,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 50%;
     top: 29%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 33s;
     animation-name: floatReverse;
@@ -2839,7 +2839,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 64%;
     top: 83%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 28s;
     animation-name: float;
@@ -2852,7 +2852,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 6%;
     top: 3%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 23s;
     animation-name: floatReverse;
@@ -2865,7 +2865,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 4%;
     top: 2%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 28s;
     animation-name: floatReverse;
@@ -2878,7 +2878,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 19%;
     top: 2%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 40s;
     animation-name: float;
@@ -2891,7 +2891,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 70%;
     top: 4%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 21s;
     animation-name: float;
@@ -2904,7 +2904,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 88%;
     top: 97%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 35s;
     animation-name: float;
@@ -2917,7 +2917,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 69%;
     top: 79%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 27s;
     animation-name: floatReverse2;
@@ -2930,7 +2930,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 50%;
     top: 100%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 30s;
     animation-name: floatReverse2;
@@ -2943,7 +2943,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 20%;
     top: 3%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 35s;
     animation-name: floatReverse;
@@ -2956,7 +2956,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 10%;
     top: 46%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 29s;
     animation-name: floatReverse;
@@ -2969,7 +2969,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 28%;
     top: 10%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 40s;
     animation-name: float;
@@ -2982,7 +2982,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 82%;
     top: 10%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 37s;
     animation-name: floatReverse2;
@@ -2995,7 +2995,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 93%;
     top: 70%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 26s;
     animation-name: floatReverse;
@@ -3008,7 +3008,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 55%;
     top: 60%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 35s;
     animation-name: floatReverse2;
@@ -3021,7 +3021,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 20%;
     top: 92%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 38s;
     animation-name: floatReverse2;
@@ -3034,7 +3034,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 38%;
     top: 56%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 35s;
     animation-name: float2;
@@ -3047,7 +3047,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 15%;
     top: 34%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 25s;
     animation-name: floatReverse;
@@ -3060,7 +3060,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 23%;
     top: 49%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 39s;
     animation-name: float2;
@@ -3073,7 +3073,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 99%;
     top: 8%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 22s;
     animation-name: float;
@@ -3086,7 +3086,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 72%;
     top: 52%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 40s;
     animation-name: float2;
@@ -3099,7 +3099,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 14%;
     top: 22%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 22s;
     animation-name: floatReverse2;
@@ -3112,7 +3112,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 96%;
     top: 21%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 36s;
     animation-name: floatReverse2;
@@ -3125,7 +3125,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 36%;
     top: 35%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 29s;
     animation-name: floatReverse;
@@ -3138,7 +3138,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 11%;
     top: 96%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 27s;
     animation-name: floatReverse2;
@@ -3151,7 +3151,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 11%;
     top: 100%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 29s;
     animation-name: float;
@@ -3164,7 +3164,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 21%;
     top: 100%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 32s;
     animation-name: float2;
@@ -3177,7 +3177,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 99%;
     top: 2%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 37s;
     animation-name: floatReverse2;
@@ -3190,7 +3190,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 49%;
     top: 10%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 25s;
     animation-name: floatReverse2;
@@ -3203,7 +3203,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 2%;
     top: 55%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 35s;
     animation-name: floatReverse;
@@ -3216,7 +3216,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 33%;
     top: 23%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 35s;
     animation-name: float;
@@ -3229,7 +3229,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 26%;
     top: 20%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 36s;
     animation-name: floatReverse;
@@ -3242,7 +3242,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 39%;
     top: 13%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 26s;
     animation-name: floatReverse2;
@@ -3255,7 +3255,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 49%;
     top: 79%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 40s;
     animation-name: floatReverse2;
@@ -3268,7 +3268,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 64%;
     top: 6%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 28s;
     animation-name: floatReverse;
@@ -3281,7 +3281,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 66%;
     top: 58%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 25s;
     animation-name: floatReverse2;
@@ -3294,7 +3294,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 85%;
     top: 53%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 34s;
     animation-name: float2;
@@ -3307,7 +3307,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 16%;
     top: 98%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 28s;
     animation-name: floatReverse2;
@@ -3320,7 +3320,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 21%;
     top: 70%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 29s;
     animation-name: float2;
@@ -3333,7 +3333,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 85%;
     top: 24%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 36s;
     animation-name: float;
@@ -3346,7 +3346,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 62%;
     top: 15%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 32s;
     animation-name: floatReverse2;
@@ -3359,7 +3359,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 75%;
     top: 38%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 38s;
     animation-name: floatReverse;
@@ -3372,7 +3372,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 99%;
     top: 79%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 33s;
     animation-name: float2;
@@ -3385,7 +3385,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 20%;
     top: 68%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 34s;
     animation-name: floatReverse;
@@ -3398,7 +3398,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 45%;
     top: 38%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 40s;
     animation-name: float2;
@@ -3411,7 +3411,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 53%;
     top: 32%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 30s;
     animation-name: floatReverse2;
@@ -3424,7 +3424,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 42%;
     top: 52%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 36s;
     animation-name: floatReverse2;
@@ -3437,7 +3437,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 68%;
     top: 47%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 26s;
     animation-name: floatReverse2;
@@ -3450,7 +3450,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 72%;
     top: 35%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 32s;
     animation-name: floatReverse;
@@ -3463,7 +3463,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 92%;
     top: 94%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 26s;
     animation-name: floatReverse;
@@ -3476,7 +3476,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 31%;
     top: 51%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 36s;
     animation-name: float2;
@@ -3489,7 +3489,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 24%;
     top: 29%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 24s;
     animation-name: float2;
@@ -3502,7 +3502,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 35%;
     top: 6%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 21s;
     animation-name: float2;
@@ -3515,7 +3515,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 55%;
     top: 26%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 22s;
     animation-name: float;
@@ -3528,7 +3528,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 61%;
     top: 20%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 29s;
     animation-name: float;
@@ -3541,7 +3541,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 70%;
     top: 99%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 29s;
     animation-name: floatReverse;
@@ -3554,7 +3554,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 23%;
     top: 44%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 22s;
     animation-name: floatReverse2;
@@ -3567,7 +3567,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 54%;
     top: 43%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 21s;
     animation-name: float;
@@ -3580,7 +3580,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 91%;
     top: 71%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 29s;
     animation-name: float2;
@@ -3593,7 +3593,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 25%;
     top: 28%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 29s;
     animation-name: floatReverse;
@@ -3606,7 +3606,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 96%;
     top: 71%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 21s;
     animation-name: floatReverse2;
@@ -3619,7 +3619,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 88%;
     top: 48%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 25s;
     animation-name: floatReverse;
@@ -3632,7 +3632,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 58%;
     top: 61%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 38s;
     animation-name: float2;
@@ -3645,7 +3645,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 56%;
     top: 1%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 37s;
     animation-name: float2;
@@ -3658,7 +3658,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 12%;
     top: 23%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 31s;
     animation-name: floatReverse2;
@@ -3671,7 +3671,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 20%;
     top: 98%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 21s;
     animation-name: floatReverse;
@@ -3684,7 +3684,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 42%;
     top: 25%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 39s;
     animation-name: floatReverse2;
@@ -3697,7 +3697,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 67%;
     top: 20%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 35s;
     animation-name: float2;
@@ -3710,7 +3710,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 81%;
     top: 34%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 23s;
     animation-name: float2;
@@ -3723,7 +3723,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 82%;
     top: 28%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 27s;
     animation-name: float2;
@@ -3736,7 +3736,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 47%;
     top: 72%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 37s;
     animation-name: floatReverse;
@@ -3749,7 +3749,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 54%;
     top: 85%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 28s;
     animation-name: floatReverse2;
@@ -3762,7 +3762,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 60%;
     top: 21%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 38s;
     animation-name: floatReverse;
@@ -3775,7 +3775,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 1%;
     top: 65%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 35s;
     animation-name: floatReverse;
@@ -3788,7 +3788,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 46%;
     top: 30%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 28s;
     animation-name: floatReverse;
@@ -3801,7 +3801,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 85%;
     top: 30%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 27s;
     animation-name: floatReverse2;
@@ -3814,7 +3814,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 42%;
     top: 88%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 32s;
     animation-name: floatReverse2;
@@ -3827,7 +3827,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 88%;
     top: 4%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 28s;
     animation-name: float;
@@ -3840,7 +3840,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 4%;
     top: 53%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 39s;
     animation-name: floatReverse2;
@@ -3853,7 +3853,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 68%;
     top: 42%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 37s;
     animation-name: floatReverse;
@@ -3866,7 +3866,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 30%;
     top: 61%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 24s;
     animation-name: floatReverse;
@@ -3879,7 +3879,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 54%;
     top: 58%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 35s;
     animation-name: floatReverse2;
@@ -3892,7 +3892,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 45%;
     top: 66%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 40s;
     animation-name: floatReverse;
@@ -3905,7 +3905,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 4%;
     top: 9%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 21s;
     animation-name: floatReverse;
@@ -3918,7 +3918,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 84%;
     top: 24%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 40s;
     animation-name: floatReverse2;
@@ -3931,7 +3931,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 38%;
     top: 79%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 32s;
     animation-name: floatReverse;
@@ -3944,7 +3944,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 17%;
     top: 38%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 29s;
     animation-name: float;
@@ -3957,7 +3957,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 36%;
     top: 86%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 22s;
     animation-name: float;
@@ -3970,7 +3970,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 19%;
     top: 21%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 31s;
     animation-name: float;
@@ -3983,7 +3983,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 22%;
     top: 63%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 24s;
     animation-name: floatReverse;
@@ -3996,7 +3996,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 94%;
     top: 26%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 27s;
     animation-name: floatReverse2;
@@ -4009,7 +4009,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 95%;
     top: 31%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 27s;
     animation-name: float;
@@ -4022,7 +4022,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 27%;
     top: 36%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 25s;
     animation-name: floatReverse;
@@ -4035,7 +4035,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 27%;
     top: 87%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 27s;
     animation-name: floatReverse;
@@ -4048,7 +4048,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 96%;
     top: 37%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 23s;
     animation-name: float;
@@ -4061,7 +4061,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 84%;
     top: 46%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 39s;
     animation-name: float;
@@ -4074,7 +4074,7 @@ input[type='radio']:checked:after {
     width: 20px;
     left: 72%;
     top: 11%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 32s;
     animation-name: float;
@@ -4087,7 +4087,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 54%;
     top: 97%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 40s;
     animation-name: float;
@@ -4100,7 +4100,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 19%;
     top: 3%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 26s;
     animation-name: float2;
@@ -4113,7 +4113,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 52%;
     top: 71%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 26s;
     animation-name: float2;
@@ -4126,7 +4126,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 30%;
     top: 60%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 31s;
     animation-name: floatReverse2;
@@ -4139,7 +4139,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 93%;
     top: 97%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 36s;
     animation-name: float2;
@@ -4152,7 +4152,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 11%;
     top: 52%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 36s;
     animation-name: floatReverse2;
@@ -4165,7 +4165,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 11%;
     top: 10%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 33s;
     animation-name: floatReverse;
@@ -4178,7 +4178,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 2%;
     top: 100%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 35s;
     animation-name: floatReverse2;
@@ -4191,7 +4191,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 14%;
     top: 97%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 21s;
     animation-name: float;
@@ -4204,7 +4204,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 3%;
     top: 76%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 34s;
     animation-name: floatReverse;
@@ -4217,7 +4217,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 29%;
     top: 95%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 32s;
     animation-name: floatReverse;
@@ -4230,7 +4230,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 89%;
     top: 20%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 27s;
     animation-name: float;
@@ -4243,7 +4243,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 45%;
     top: 90%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 36s;
     animation-name: floatReverse2;
@@ -4256,7 +4256,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 42%;
     top: 89%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 40s;
     animation-name: float2;
@@ -4269,7 +4269,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 69%;
     top: 85%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 21s;
     animation-name: float2;
@@ -4282,7 +4282,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 42%;
     top: 19%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 27s;
     animation-name: float2;
@@ -4295,7 +4295,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 41%;
     top: 58%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 38s;
     animation-name: float2;
@@ -4308,7 +4308,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 60%;
     top: 92%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 29s;
     animation-name: floatReverse;
@@ -4321,7 +4321,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 29%;
     top: 36%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 27s;
     animation-name: floatReverse;
@@ -4334,7 +4334,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 70%;
     top: 16%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 32s;
     animation-name: floatReverse;
@@ -4347,7 +4347,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 31%;
     top: 31%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 24s;
     animation-name: floatReverse2;
@@ -4360,7 +4360,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 99%;
     top: 97%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 23s;
     animation-name: float2;
@@ -4373,7 +4373,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 75%;
     top: 39%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 23s;
     animation-name: floatReverse;
@@ -4386,7 +4386,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 31%;
     top: 81%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 26s;
     animation-name: floatReverse2;
@@ -4399,7 +4399,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 87%;
     top: 5%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 36s;
     animation-name: floatReverse;
@@ -4412,7 +4412,7 @@ input[type='radio']:checked:after {
     width: 21px;
     left: 7%;
     top: 49%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 25s;
     animation-name: floatReverse2;
@@ -4425,7 +4425,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 88%;
     top: 83%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 38s;
     animation-name: floatReverse2;
@@ -4438,7 +4438,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 37%;
     top: 78%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 33s;
     animation-name: floatReverse;
@@ -4451,7 +4451,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 98%;
     top: 69%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 26s;
     animation-name: floatReverse;
@@ -4464,7 +4464,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 56%;
     top: 76%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 37s;
     animation-name: float;
@@ -4477,7 +4477,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 68%;
     top: 13%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 23s;
     animation-name: float2;
@@ -4490,7 +4490,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 7%;
     top: 97%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 38s;
     animation-name: float2;
@@ -4503,7 +4503,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 100%;
     top: 29%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 34s;
     animation-name: float;
@@ -4516,7 +4516,7 @@ input[type='radio']:checked:after {
     width: 24px;
     left: 40%;
     top: 63%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 27s;
     animation-name: float2;
@@ -4529,7 +4529,7 @@ input[type='radio']:checked:after {
     width: 15px;
     left: 6%;
     top: 91%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 21s;
     animation-name: float;
@@ -4542,7 +4542,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 97%;
     top: 40%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 33s;
     animation-name: float2;
@@ -4555,7 +4555,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 43%;
     top: 5%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 23s;
     animation-name: float;
@@ -4568,7 +4568,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 100%;
     top: 76%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 33s;
     animation-name: float;
@@ -4581,7 +4581,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 88%;
     top: 23%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 28s;
     animation-name: float2;
@@ -4594,7 +4594,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 51%;
     top: 1%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 37s;
     animation-name: floatReverse;
@@ -4607,7 +4607,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 10%;
     top: 8%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 29s;
     animation-name: float2;
@@ -4620,7 +4620,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 62%;
     top: 95%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 29s;
     animation-name: float2;
@@ -4633,7 +4633,7 @@ input[type='radio']:checked:after {
     width: 12px;
     left: 89%;
     top: 64%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.1s;
     animation-duration: 21s;
     animation-name: floatReverse;
@@ -4646,7 +4646,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 3%;
     top: 85%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 37s;
     animation-name: floatReverse2;
@@ -4659,7 +4659,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 44%;
     top: 55%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.2s;
     animation-duration: 22s;
     animation-name: floatReverse2;
@@ -4672,7 +4672,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 57%;
     top: 34%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 26s;
     animation-name: floatReverse2;
@@ -4685,7 +4685,7 @@ input[type='radio']:checked:after {
     width: 14px;
     left: 8%;
     top: 34%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 35s;
     animation-name: float2;
@@ -4698,7 +4698,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 63%;
     top: 39%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 1s;
     animation-duration: 29s;
     animation-name: floatReverse2;
@@ -4711,7 +4711,7 @@ input[type='radio']:checked:after {
     width: 22px;
     left: 2%;
     top: 68%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 26s;
     animation-name: floatReverse2;
@@ -4724,7 +4724,7 @@ input[type='radio']:checked:after {
     width: 16px;
     left: 22%;
     top: 15%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.6s;
     animation-duration: 32s;
     animation-name: floatReverse;
@@ -4737,7 +4737,7 @@ input[type='radio']:checked:after {
     width: 25px;
     left: 54%;
     top: 29%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 35s;
     animation-name: float2;
@@ -4750,7 +4750,7 @@ input[type='radio']:checked:after {
     width: 23px;
     left: 87%;
     top: 49%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.3s;
     animation-duration: 25s;
     animation-name: float;
@@ -4763,7 +4763,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 55%;
     top: 58%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 27s;
     animation-name: float2;
@@ -4776,7 +4776,7 @@ input[type='radio']:checked:after {
     width: 13px;
     left: 19%;
     top: 60%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 28s;
     animation-name: float2;
@@ -4789,7 +4789,7 @@ input[type='radio']:checked:after {
     width: 11px;
     left: 34%;
     top: 11%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.9s;
     animation-duration: 37s;
     animation-name: floatReverse;
@@ -4802,7 +4802,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 75%;
     top: 78%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.7s;
     animation-duration: 34s;
     animation-name: floatReverse2;
@@ -4815,7 +4815,7 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 54%;
     top: 23%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.4s;
     animation-duration: 23s;
     animation-name: float2;
@@ -4828,7 +4828,7 @@ input[type='radio']:checked:after {
     width: 19px;
     left: 7%;
     top: 60%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 32s;
     animation-name: float;
@@ -4841,7 +4841,7 @@ input[type='radio']:checked:after {
     width: 17px;
     left: 15%;
     top: 96%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.5s;
     animation-duration: 23s;
     animation-name: float;
@@ -4854,673 +4854,10 @@ input[type='radio']:checked:after {
     width: 18px;
     left: 32%;
     top: 18%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    background: linear-gradient(120deg, #730240 0%, #224A59 100%);
     animation-delay: 0.8s;
     animation-duration: 21s;
     animation-name: float;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(350) {
-    height: 20px;
-    width: 20px;
-    left: 20%;
-    top: 3%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.6s;
-    animation-duration: 35s;
-    animation-name: float2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(351) {
-    height: 16px;
-    width: 16px;
-    left: 23%;
-    top: 42%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 1s;
-    animation-duration: 23s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(352) {
-    height: 18px;
-    width: 18px;
-    left: 22%;
-    top: 34%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.1s;
-    animation-duration: 34s;
-    animation-name: float;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(353) {
-    height: 20px;
-    width: 20px;
-    left: 79%;
-    top: 26%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.6s;
-    animation-duration: 24s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(354) {
-    height: 12px;
-    width: 12px;
-    left: 87%;
-    top: 79%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.5s;
-    animation-duration: 35s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(355) {
-    height: 12px;
-    width: 12px;
-    left: 13%;
-    top: 7%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.4s;
-    animation-duration: 39s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(356) {
-    height: 14px;
-    width: 14px;
-    left: 12%;
-    top: 79%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.1s;
-    animation-duration: 38s;
-    animation-name: floatReverse;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(357) {
-    height: 20px;
-    width: 20px;
-    left: 88%;
-    top: 37%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 1s;
-    animation-duration: 38s;
-    animation-name: floatReverse;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(358) {
-    height: 13px;
-    width: 13px;
-    left: 8%;
-    top: 14%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.1s;
-    animation-duration: 22s;
-    animation-name: floatReverse;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(359) {
-    height: 18px;
-    width: 18px;
-    left: 26%;
-    top: 66%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.3s;
-    animation-duration: 31s;
-    animation-name: float2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(360) {
-    height: 23px;
-    width: 23px;
-    left: 93%;
-    top: 72%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.3s;
-    animation-duration: 23s;
-    animation-name: float2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(361) {
-    height: 22px;
-    width: 22px;
-    left: 20%;
-    top: 22%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.3s;
-    animation-duration: 31s;
-    animation-name: floatReverse;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(362) {
-    height: 13px;
-    width: 13px;
-    left: 75%;
-    top: 39%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 1s;
-    animation-duration: 35s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(363) {
-    height: 20px;
-    width: 20px;
-    left: 93%;
-    top: 54%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 1s;
-    animation-duration: 36s;
-    animation-name: float;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(364) {
-    height: 15px;
-    width: 15px;
-    left: 37%;
-    top: 20%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.9s;
-    animation-duration: 38s;
-    animation-name: float;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(365) {
-    height: 25px;
-    width: 25px;
-    left: 55%;
-    top: 29%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.2s;
-    animation-duration: 36s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(366) {
-    height: 12px;
-    width: 12px;
-    left: 60%;
-    top: 65%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.6s;
-    animation-duration: 23s;
-    animation-name: float2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(367) {
-    height: 25px;
-    width: 25px;
-    left: 83%;
-    top: 24%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.3s;
-    animation-duration: 32s;
-    animation-name: float;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(368) {
-    height: 21px;
-    width: 21px;
-    left: 24%;
-    top: 18%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.5s;
-    animation-duration: 34s;
-    animation-name: floatReverse;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(369) {
-    height: 19px;
-    width: 19px;
-    left: 68%;
-    top: 12%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.7s;
-    animation-duration: 35s;
-    animation-name: floatReverse;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(370) {
-    height: 21px;
-    width: 21px;
-    left: 98%;
-    top: 30%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.8s;
-    animation-duration: 28s;
-    animation-name: float2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(371) {
-    height: 21px;
-    width: 21px;
-    left: 22%;
-    top: 78%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.5s;
-    animation-duration: 23s;
-    animation-name: float;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(372) {
-    height: 14px;
-    width: 14px;
-    left: 41%;
-    top: 52%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.1s;
-    animation-duration: 40s;
-    animation-name: floatReverse;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(373) {
-    height: 12px;
-    width: 12px;
-    left: 22%;
-    top: 5%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.2s;
-    animation-duration: 40s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(374) {
-    height: 18px;
-    width: 18px;
-    left: 85%;
-    top: 60%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.1s;
-    animation-duration: 35s;
-    animation-name: float2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(375) {
-    height: 24px;
-    width: 24px;
-    left: 26%;
-    top: 41%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.5s;
-    animation-duration: 31s;
-    animation-name: float;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(376) {
-    height: 16px;
-    width: 16px;
-    left: 18%;
-    top: 93%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.9s;
-    animation-duration: 38s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(377) {
-    height: 23px;
-    width: 23px;
-    left: 84%;
-    top: 62%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.4s;
-    animation-duration: 34s;
-    animation-name: float2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(378) {
-    height: 22px;
-    width: 22px;
-    left: 41%;
-    top: 88%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.7s;
-    animation-duration: 26s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(379) {
-    height: 15px;
-    width: 15px;
-    left: 83%;
-    top: 38%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.4s;
-    animation-duration: 32s;
-    animation-name: float;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(380) {
-    height: 13px;
-    width: 13px;
-    left: 39%;
-    top: 78%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.5s;
-    animation-duration: 22s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(381) {
-    height: 13px;
-    width: 13px;
-    left: 10%;
-    top: 65%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 1s;
-    animation-duration: 23s;
-    animation-name: float2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(382) {
-    height: 20px;
-    width: 20px;
-    left: 83%;
-    top: 9%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.6s;
-    animation-duration: 38s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(383) {
-    height: 17px;
-    width: 17px;
-    left: 23%;
-    top: 5%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.2s;
-    animation-duration: 33s;
-    animation-name: float2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(384) {
-    height: 21px;
-    width: 21px;
-    left: 99%;
-    top: 19%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.9s;
-    animation-duration: 23s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(385) {
-    height: 12px;
-    width: 12px;
-    left: 98%;
-    top: 87%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.9s;
-    animation-duration: 38s;
-    animation-name: floatReverse;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(386) {
-    height: 24px;
-    width: 24px;
-    left: 84%;
-    top: 70%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.5s;
-    animation-duration: 37s;
-    animation-name: floatReverse;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(387) {
-    height: 22px;
-    width: 22px;
-    left: 42%;
-    top: 28%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.9s;
-    animation-duration: 38s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(388) {
-    height: 15px;
-    width: 15px;
-    left: 13%;
-    top: 34%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.6s;
-    animation-duration: 32s;
-    animation-name: floatReverse;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(389) {
-    height: 20px;
-    width: 20px;
-    left: 18%;
-    top: 75%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.2s;
-    animation-duration: 22s;
-    animation-name: float2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(390) {
-    height: 11px;
-    width: 11px;
-    left: 16%;
-    top: 36%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.6s;
-    animation-duration: 38s;
-    animation-name: float2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(391) {
-    height: 22px;
-    width: 22px;
-    left: 56%;
-    top: 49%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.2s;
-    animation-duration: 26s;
-    animation-name: float;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(392) {
-    height: 23px;
-    width: 23px;
-    left: 52%;
-    top: 93%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.5s;
-    animation-duration: 35s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(393) {
-    height: 20px;
-    width: 20px;
-    left: 65%;
-    top: 86%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.9s;
-    animation-duration: 26s;
-    animation-name: float2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(394) {
-    height: 19px;
-    width: 19px;
-    left: 59%;
-    top: 18%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.4s;
-    animation-duration: 30s;
-    animation-name: float;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(395) {
-    height: 19px;
-    width: 19px;
-    left: 99%;
-    top: 62%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.2s;
-    animation-duration: 38s;
-    animation-name: float;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(396) {
-    height: 23px;
-    width: 23px;
-    left: 45%;
-    top: 82%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.2s;
-    animation-duration: 34s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(397) {
-    height: 18px;
-    width: 18px;
-    left: 25%;
-    top: 8%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.1s;
-    animation-duration: 28s;
-    animation-name: floatReverse;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(398) {
-    height: 18px;
-    width: 18px;
-    left: 25%;
-    top: 69%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 1s;
-    animation-duration: 22s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(399) {
-    height: 23px;
-    width: 23px;
-    left: 61%;
-    top: 82%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 1s;
-    animation-duration: 32s;
-    animation-name: floatReverse2;
-    animation-iteration-count: infinite;
-    animation-fill-mode: forwards;
-}
-
-.particle:nth-child(400) {
-    height: 25px;
-    width: 25px;
-    left: 32%;
-    top: 55%;
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-    animation-delay: 0.5s;
-    animation-duration: 29s;
-    animation-name: floatReverse2;
     animation-iteration-count: infinite;
     animation-fill-mode: forwards;
 }
